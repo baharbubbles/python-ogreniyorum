@@ -8,12 +8,12 @@ belirtilen mazeretim gereğince {} Eğitim-Öğretim Yılı {} .
 yarıyılında öğrenime ara izni (kayıt dondurma) istiyorum.
 Bilgilerinizi ve gereğini arz ederim.
 İmza
-Ad: {}
-Soyad: {}
+Ad:               {}
+Soyad:            {}
 T.C. Kimlik No. : {}
-Adres: {}
-Tel.: {}
-Ekler: {}
+Adres:            {}
+Tel.:             {}
+Ekler:            {}
 """
 tarih = input("tarih: ")
 üniversite = input("üniversite adı: ")
