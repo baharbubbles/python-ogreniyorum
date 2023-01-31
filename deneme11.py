@@ -10,8 +10,8 @@ while True:
 
 
 #continue kullanımı
-#
-#while True:
+
+# while True:
 #     s = input("Bir sayı girin: ")
 #     if s == "iptal":
 #       break
